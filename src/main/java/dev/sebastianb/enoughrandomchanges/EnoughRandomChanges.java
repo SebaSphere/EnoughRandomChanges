@@ -11,6 +11,7 @@ public class EnoughRandomChanges implements ModInitializer {
     //pfpfppfpfpfpfppfpfppfpfpfppfpfpfppfpfpffppfpffppfpff
     //work dammit
     //PLS i BEG U
+    //*coughing*
     @Override
     public void onInitialize() {
         
