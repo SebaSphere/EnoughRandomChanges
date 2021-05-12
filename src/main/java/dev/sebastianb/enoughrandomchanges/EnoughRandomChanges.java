@@ -10,6 +10,7 @@ public class EnoughRandomChanges implements ModInitializer {
     public static Logger LOGGER = Logger.getLogger(MOD_ID);
     //pfpfppfpfpfpfppfpfppfpfpfppfpfpfppfpfpffppfpffppfpff
     //work dammit
+    //PLS i BEG U
     @Override
     public void onInitialize() {
         
