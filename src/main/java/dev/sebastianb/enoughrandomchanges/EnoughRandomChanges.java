@@ -8,10 +8,10 @@ public class EnoughRandomChanges implements ModInitializer {
 
     public static String MOD_ID = "enoughrandomchanges";
     public static Logger LOGGER = Logger.getLogger(MOD_ID);
-    //pfpfppfpfpfpfppfpfppfpfpfppfpfpfppfpfpffppfpffppfpff
-    //work dammit
-    //PLS i BEG U
-    //*coughing*
+
+
+    // BLAH!!!!!
+
     @Override
     public void onInitialize() {
         
